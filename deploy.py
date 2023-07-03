@@ -23,7 +23,8 @@ if img and st.button("Check"):
     new_arr = img_array/255
     test = []
     test.append(new_arr)
-    test = np.array(test).reshape(-1, img_size, img_size, 3)
+    test = np.array(test)
+        # reshape(-1, img_size, img_size, 3)
     y = model.predict(test)
     if y[0] <= 0.5:
         st.write("The given image is Real.")
