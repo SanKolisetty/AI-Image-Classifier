@@ -1,11 +1,11 @@
 import streamlit as st
 import tensorflow as tf
 from tensorflow import keras
-import cv2 as cv
+# import cv2 as cv
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 from PIL import Image, ImageOps
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 
