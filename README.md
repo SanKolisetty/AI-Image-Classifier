@@ -7,3 +7,6 @@ This project involved building a machine learning model that can effectively cla
 
 Then, a Convulutional Nueral Network based Classifier model was constructed and trained on the dataset containing around 1,00,000 images.
 
+The model is deployed using streamlit. Try it out.
+
+https://ai-image-classifier-sk.streamlit.app/
