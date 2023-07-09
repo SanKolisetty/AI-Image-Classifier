@@ -18,7 +18,7 @@ AI Image Classifier is a machine learning model that can effectively classify re
 # Brief Overview
 [(Back to top)](#table-of-contents)
 
-This project involved building a machine learning model that can classify real and AI generated images. The first step was to create a dataset comprising AI-generated and real images. To accomplish this, `pygoogle_image` was used, with which images from Google were downloaded. Apart from Google Images, two more datasets were used.
+This project involved building a machine learning model that can classify real and AI generated images. The first step was to create a dataset comprising of AI-generated and real images. To accomplish this, `pygoogle_image` was used, with which images from Google were downloaded. Apart from Google Images, two more datasets were used.
 
 - CIFAKE: Real and AI-Generated Synthetic Images 
 - Ai Generated Images | Images Created using Ai from Kaggle
