@@ -80,4 +80,7 @@ The CNN model was built similar to `VGG16` and was trained on the train dataset.
 # Testing and Evaluation
 [(Back to top)](#table-of-contents)
 
+On evaluation, model achieved an accuracy of 93.90%. 
+
+![image](https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/846b99e3-7dc7-4fcb-980c-890d380eae3b)
 
