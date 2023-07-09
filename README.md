@@ -23,6 +23,8 @@ These images were preprocessed and features were extracted. Then, a Convulutiona
 
 # Demo
 
+Here is a short demo of the deployed web application.
+
 https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/0ebe3ffb-4afe-4a7b-96d3-80ce5e7ce99f
 
 # Installation
