@@ -35,7 +35,7 @@ https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/0ebe3ffb-4af
 Change the directory to the location where the repository is to be cloned.
 
 ```shell
-  git int
+  git init
 ```
 ```shell
   git clone https://github.com/SanKolisetty/AI-Image-Classifier.git
