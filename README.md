@@ -44,15 +44,11 @@ Open Git Bash and change the directory to the location where the repository is t
 ```shell
   git clone https://github.com/SanKolisetty/AI-Image-Classifier.git
 ```
-Now, install the requirements given below.
+Now, install the requirements using the following command.
 
-- Python3 
-- TensorFlow 
-- NumPy
-- Streamlit
-- Keras
-- Pillow
-
+```shell
+   pip install -r requirements. txt 
+```
 To access or use the application, open a terminal in the cloned repository folder and run the following command.
 
 ```shell
