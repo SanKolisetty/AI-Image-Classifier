@@ -72,4 +72,9 @@ Combing the three datasets, we have:
 - Test Set: 20000
 
 # Model
+
 [(Back to top)](#table-of-contents)
+
+The CNN model was built similar to `VGG16` and was trained on the train dataset. The following image show the model architecture.
+
+![modelarchitecture](https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/46b84444-8501-47ad-a0bb-9a778d2b1047)
