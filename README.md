@@ -19,7 +19,7 @@ This project involved building a machine learning model that can classify real a
 1. CIFAKE: Real and AI-Generated Synthetic Images 
 2. Ai Generated Images | Images Created using Ai from Kaggle
 
-Then, a Convulutional Nueral Network based Classifier model was constructed and trained on the dataset containing around 1,00,000 images.
+These images were preprocessed and features were extracted. Then, a Convulutional Nueral Network based Classifier model was constructed and trained on the dataset containing around 1,00,000 images.
 
 # Demo
 
