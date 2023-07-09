@@ -14,6 +14,7 @@ AI Image Classifier is a machine learning model that can effectively classify re
 - [Data Sources](#data-sources)
 - [Model](#model)
 - [Testing and Evaluation](#testing-and-evaluation)
+- [Deployment](#deployment)
 
 # Brief Overview
 [(Back to top)](#table-of-contents)
@@ -93,6 +94,7 @@ Confusion Matrix:
 > 0 is Real and 1 is AI Generated
 
 # Deployment
+[(Back to top)](#table-of-contents)
 
 The application has been deployed in the Streamlit Cloud.
 
