@@ -12,7 +12,7 @@ The model is deployed using streamlit. Try it out.
 https://ai-image-classifier-sk.streamlit.app/
 
 <!-- Add banner here -->
-![Banner](./header.png)
+![Banner](./banneraiimg.jpg)
 
 # Project Title
 
