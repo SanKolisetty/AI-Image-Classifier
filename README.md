@@ -32,7 +32,7 @@ https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/0ebe3ffb-4af
 # Installation
 [(Back to top)](#table-of-contents)
 
-Change the directory to the location where the repository is to be cloned.
+Open Git Bash and change the directory to the location where the repository is to be cloned. Then, type the following commands.
 
 ```shell
   git init
