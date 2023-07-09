@@ -58,8 +58,9 @@ To access or use the application, open a terminal in the cloned repository folde
 Finally, browse the link provided in your browser.
 
 # Data Sources
+[(Back to top)](#table-of-contents)
 
 The dataset comprised of Real and AI Generated Images. Images were collected from Google using the python library `pygoogle_image`. Every single image was verified to avoid issues such as incorrect and ambigous images. Two other datsets were also used.
 
-- CIFAKE: Real and AI-Generated Synthetic Images ([Link](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images))
-- Ai Generated Images | Images Created using AI ([Link](https://www.kaggle.com/datasets/anasmahmood000/ai-generated-images))
+- CIFAKE: Real and AI-Generated Synthetic Images ( [Link](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) )
+- Ai Generated Images | Images Created using AI ( [Link](https://www.kaggle.com/datasets/anasmahmood000/ai-generated-images) )
