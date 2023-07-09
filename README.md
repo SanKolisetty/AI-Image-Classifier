@@ -31,7 +31,7 @@ GitHub has a ToC feature now. It works really well, so this might not be needed.
 
 I just learned that VS Code automatically updates the ToC if you change any of the headings. Pretty cool!
 
-- [Project Title](#project-title)
+- [AI Image Classifier](#ai)
 - [Quickstart/Demo](#quickstartdemo)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
@@ -49,21 +49,6 @@ You can add snippets here that your readers can copy-paste with click:
 gh repo clone navendu-pottekkat/awesome-readme
 ```
 
-# Usage
-[(Back to top)](#table-of-contents)
-
-Next, you have to explain how to use your project. You can create subsections under here to explain more clearly.
-
-# Development
-[(Back to top)](#table-of-contents)
-
-You have people who want to use your project and then you have people who want contribute to your project.
-
-This is where you provide instructions for the latter.
-
-Add instructions on how to set up a development environment, clone, and build the project.
-
-You can use the code snippets here as well:
 
 ```shell
 command to clone your project
