@@ -13,6 +13,7 @@ AI Image Classifier is a machine learning model that can effectively classify re
 - [Installation](#installation)
 - [Data Sources](#data-sources)
 - [Model](#model)
+- [Testing and Evaluation](#testing-and-evaluation)
 
 # Brief Overview
 [(Back to top)](#table-of-contents)
@@ -72,9 +73,11 @@ Combing the three datasets, we have:
 - Test Set: 20000
 
 # Model
-
 [(Back to top)](#table-of-contents)
 
-The CNN model was built similar to `VGG16` and was trained on the train dataset. The model has a `Convolutional` Layer, `MaxPooling` Layer and a `Dropout` Layer repeated four times with incraesing sizes of filters of the Convolutional Layer i.e. 32, 64, 128, and 256. It has 3 dense layers. The activation for all the layers is `relu` except for the last layer, which has activation `sigmoid`. The model architecture and model summary are uploaded.
+The CNN model was built similar to `VGG16` and was trained on the train dataset. The model has a `Convolutional` Layer, `MaxPooling` Layer and a `Dropout` Layer repeated four times with increasing sizes of filters of the Convolutional Layer i.e. 32, 64, 128, and 256. It has 3 dense layers. The activation for all the layers is `relu` except for the last layer, which has activation `sigmoid`. The model architecture and model summary are uploaded.
+
+# Testing and Evaluation
+[(Back to top)](#table-of-contents)
 
 
