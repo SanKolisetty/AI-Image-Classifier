@@ -12,6 +12,7 @@ AI Image Classifier is a machine learning model that can effectively classify re
 - [Demo](#demo)
 - [Installation](#installation)
 - [Data Sources](#data-sources)
+- [Model](#model)
 
 # Brief Overview
 [(Back to top)](#table-of-contents)
@@ -64,3 +65,11 @@ The dataset comprised of Real and AI Generated Images. Images were collected fro
 
 - CIFAKE: Real and AI-Generated Synthetic Images ( [Link](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) )
 - Ai Generated Images | Images Created using AI ( [Link](https://www.kaggle.com/datasets/anasmahmood000/ai-generated-images) )
+
+Combing the three datasets, we have:
+
+- Train Set: 101031
+- Test Set: 20000
+
+# Model
+[(Back to top)](#table-of-contents)
