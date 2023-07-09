@@ -1,21 +1,12 @@
-
-
-<!-- Add banner here -->
 ![Banner](./banneraiimg.jpg)
 
 # AI Image Classifier
 
 AI Image Classifier is a machine learning model that can effectively classify real and AI generated images.
 
-<!-- Add buttons here -->
+# Brief Overview
 
-<!-- Remove this note if you plan to copy this README -->
-
-<!-- Describe your project in brief -->
-
-<!-- Add badges with link to Shields IO -->
-
-# Quickstart/Demo
+# Demo
 
 https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/0ebe3ffb-4afe-4a7b-96d3-80ce5e7ce99f
 
@@ -34,7 +25,8 @@ GitHub has a ToC feature now. It works really well, so this might not be needed.
 I just learned that VS Code automatically updates the ToC if you change any of the headings. Pretty cool!
 
 - [AI Image Classifier](#ai-image-classifier)
-- [Quickstart/Demo](#quickstartdemo)
+- [Brief Overview](#brief-overview)
+- [Demo](#demo)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 
