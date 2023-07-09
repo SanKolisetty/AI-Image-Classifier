@@ -11,14 +11,15 @@ AI Image Classifier is a machine learning model that can effectively classify re
 - [Brief Overview](#brief-overview)
 - [Demo](#demo)
 - [Installation](#installation)
+- [Data Sources](#data-sources)
 
 # Brief Overview
 [(Back to top)](#table-of-contents)
 
 This project involved building a machine learning model that can classify real and AI generated images. The first step was to create a dataset comprising AI-generated and real images. To accomplish this, `pygoogle_image` was used, with which images from Google were downloaded. Apart from Google Images, two more datasets were used.
 
-1. CIFAKE: Real and AI-Generated Synthetic Images 
-2. Ai Generated Images | Images Created using Ai from Kaggle
+- CIFAKE: Real and AI-Generated Synthetic Images 
+- Ai Generated Images | Images Created using Ai from Kaggle
 
 These images were preprocessed and features were extracted. Then, a Convulutional Nueral Network based Classifier model was constructed and trained on the dataset containing around 1,00,000 images.
 
@@ -55,3 +56,10 @@ To access or use the application, open a terminal in the cloned repository folde
   streamlit run deploy.py
 ```
 Finally, browse the link provided in your browser.
+
+# Data Sources
+
+The dataset comprised of Real and AI Generated Images. Images were collected from Google using the python library `pygoogle_image`. Every single image was verified to avoid issues such as incorrect and ambigous images. Two other datsets were also used.
+
+- CIFAKE: Real and AI-Generated Synthetic Images ([Link](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images))
+- Ai Generated Images | Images Created using AI ([Link](https://www.kaggle.com/datasets/anasmahmood000/ai-generated-images))
