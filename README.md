@@ -39,8 +39,6 @@ I just learned that VS Code automatically updates the ToC if you change any of t
 # Installation
 [(Back to top)](#table-of-contents)
 
-> **Note**: For longer README files, I usually add a "Back to top" buttton as shown above. It makes it easy to navigate.
-
 This is where your installation instructions go.
 
 You can add snippets here that your readers can copy-paste with click:
