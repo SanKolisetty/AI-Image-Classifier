@@ -22,7 +22,7 @@ This project involved building a machine learning model that can classify real a
 - CIFAKE: Real and AI-Generated Synthetic Images 
 - Ai Generated Images | Images Created using Ai from Kaggle
 
-These images were preprocessed and features were extracted. Then, a Convulutional Nueral Network based Classifier model was constructed and trained on the dataset containing around 1,00,000 images.
+These images were preprocessed and features were extracted. Then, a Convolutional Nueral Network based Classifier model was constructed and trained on the dataset containing around 1,00,000 images.
 
 # Demo
 [(Back to top)](#table-of-contents)
@@ -75,6 +75,6 @@ Combing the three datasets, we have:
 
 [(Back to top)](#table-of-contents)
 
-The CNN model was built similar to `VGG16` and was trained on the train dataset. The model has a Convulutional Layer, MaxPooling Layer and a Dropout Layer repeated four times with incresing sizes of filters of the Convulutional Layer i.e. 32, 64, 128, and 256. It has 3 dense layers. The activation for all the layers is `relu` except for the last layer, which has activation `sigmoid`. The model architecture and model summary are uploaded.
+The CNN model was built similar to `VGG16` and was trained on the train dataset. The model has a `Convolutional` Layer, `MaxPooling` Layer and a `Dropout` Layer repeated four times with incraesing sizes of filters of the Convolutional Layer i.e. 32, 64, 128, and 256. It has 3 dense layers. The activation for all the layers is `relu` except for the last layer, which has activation `sigmoid`. The model architecture and model summary are uploaded.
 
 
