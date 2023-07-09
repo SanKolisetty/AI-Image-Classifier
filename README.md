@@ -90,3 +90,4 @@ Confusion Matrix:
 
 ![image](https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/846b99e3-7dc7-4fcb-980c-890d380eae3b)
 
+> 0 is Real and 1 is AI Generated
