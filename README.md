@@ -31,7 +31,7 @@ GitHub has a ToC feature now. It works really well, so this might not be needed.
 
 I just learned that VS Code automatically updates the ToC if you change any of the headings. Pretty cool!
 
-- [AI Image Classifier](#ai)
+- [AI Image Classifier](#ai-image-classifier)
 - [Quickstart/Demo](#quickstartdemo)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
