@@ -47,7 +47,7 @@ Open Git Bash and change the directory to the location where the repository is t
 Now, install the requirements using the following command.
 
 ```shell
-   pip install -r requirements. txt 
+   pip install -r requirements.txt 
 ```
 To access or use the application, open a terminal in the cloned repository folder and run the following command.
 
