@@ -17,6 +17,8 @@ AI Image Classifier is a machine learning model that can effectively classify re
 
 # Quickstart/Demo
 
+https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/0ebe3ffb-4afe-4a7b-96d3-80ce5e7ce99f
+
 <!-- Add a demo for your project -->
 
 I believe that you should bring value to the reader as soon as possible. You should be able to get the user up and running with your project with minimal friction.
